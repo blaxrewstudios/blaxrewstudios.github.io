@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BlaXrew Studios",
-    "currentPage": "terms_of_service.html",
+    "currentPage": "privacy_policy.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -46,7 +46,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 106,
+    "uniqCompNum": 108,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -1556,11 +1556,11 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-title\">How we use your information</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>We use the information we collect in various ways, including to:\n<br>\n<br>-&nbsp;&nbsp;&nbsp;&nbsp;Provide, operate, and maintain our webste\n<br>-&nbsp;&nbsp;&nbsp;&nbsp;Improve, personalize, and expand our webste\n<br>-&nbsp;&nbsp;&nbsp;&nbsp;Understand and analyze how you use our webste\n<br>-&nbsp;&nbsp;&nbsp;&nbsp;Develop new products, services, features, and functionality\n<br>- &nbsp;&nbsp;&nbsp;Communicate with you, either directly or through one of our partners, including for -&nbsp;&nbsp;&nbsp;&nbsp;customer service, to provide you with updates and other information relating to the -&nbsp;&nbsp;&nbsp;&nbsp;webste, and for marketing and promotional purposes\n<br>-&nbsp;&nbsp;&nbsp;&nbsp;Send you emails\n<br>-&nbsp;&nbsp;&nbsp;&nbsp;Find and prevent fraud</p></p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content2-2p",
+          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light mbr-py-1\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">How we use your information</h3>\n                <p class=\"mbr-text mbr-fonts-style mbr-py-1\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>We use the information we collect in various ways, including to: \n<br>\n<br>-    Provide, operate, and maintain our webste \n<br>-    Improve, personalize, and expand our webste \n<br>-    Understand and analyze how you use our webste \n<br>-    Develop new products, services, features, and functionality \n<br>-    Communicate with you, either directly or through one of our partners, including for - &nbsp; &nbsp; &nbsp; customer service, to provide you with updates and other information relating to the - &nbsp; &nbsp; &nbsp; webste, and for marketing and promotional purposes \n<br>-    Send you emails \n<br>-    Find and prevent fraud</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content2-2y",
           "_isUserblock": true,
           "_sourceTheme": "mobirise-amp",
-          "_cid": "s5jGuiWPpM",
+          "_cid": "s5jKaB0pPV",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
