@@ -81,8 +81,7 @@
         "meta_descr": "Software, Games & More",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/fail_stamp%20-%20kopie-750x554.jpg"
+        "html_before": ""
       },
       "components": [
         {
