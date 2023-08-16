@@ -1,0 +1,17 @@
+.team-card-left {
+  background-color: #212121!important;
+  border-radius: 50px 0px 0px 50px;
+}
+
+.team-card-right {
+  background-color: #212121!important;
+  border-radius: 0px 50px 50px 0px;
+}
+
+.team-card-middle {
+  background-color: #212121!important;
+}
+
+.col-md-6.col-lg-4.item.team-card-left {
+}
+
